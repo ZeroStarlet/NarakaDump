@@ -9,9 +9,7 @@ This directory contains dump files for Naraka Bladepoint.
 
 ## Download Links
 
-Due to GitHub LFS quota limitations, these files are hosted externally:
+These files are hosted on GitHub and can be downloaded directly:
 
-- [GameAssembly_Super_dump(2026.03.12).cs](INSERT_LINK_HERE)
-- [GameAssembly_dump(2026.03.12).cs](INSERT_LINK_HERE)
-
-Please upload these files to a cloud storage service (Google Drive, OneDrive, Dropbox, etc.) and update the links above.
+- [GameAssembly_Super_dump(2026.03.12).cs](https://raw.githubusercontent.com/ZeroStarlet/NarakaDump/d1bd76c218118218403b6889f23c9fe68b2b6a34/NarakaBladepoint/GameAssembly_Super_dump(2026.03.12).cs)
+- [GameAssembly_dump(2026.03.12).cs](https://raw.githubusercontent.com/ZeroStarlet/NarakaDump/d1bd76c218118218403b6889f23c9fe68b2b6a34/NarakaBladepoint/GameAssembly_dump(2026.03.12).cs)
