@@ -12,7 +12,7 @@ Due to large file sizes, dump files are no longer stored in the repository. Plea
 
 1. 前往 [Releases](https://github.com/ZeroStarlet/NarakaDump/releases) 页面
 2. 下载对应版本的 dump 文件
-3. 文件以 `.tar.gz` 压缩包形式提供
+3. 文件以 `.rar` 压缩包形式提供
 
 ## 文件命名 / File Naming
 
@@ -22,8 +22,8 @@ Dump 文件使用以下格式：
 
 ### 文件类型 / File Types
 
-- **GameAssembly_dump.cs** - 标准 dump
-- **GameAssembly_Super_dump.cs** - 扩展 dump，包含更多信息
+- **GameAssembly_dump.cs** - 标准GameAssembly.dll dump
+- **GameAssembly_Super_dump.cs** - 超级GameAssembly_Super.dll dump
 
 ## 请求更新 / Request Updates
 
