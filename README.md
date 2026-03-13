@@ -1,68 +1,40 @@
 # NarakaDump
 
-NarakaDump archives historical and latest `dump.cs` files for **NARAKA: BLADEPOINT**.
-
 NarakaDump 用于归档和分享 **永劫无间** 的历史与最新 `dump.cs` 文件。
 
-## Overview
+## Important / 重要说明
 
-- Scope: `dump.cs` snapshots for different update dates.
-- Goal: keep files easy to find, compare, and reference.
-- Format: raw dump files, stored by date.
+**Dump 文件通过 GitHub Releases 发布，不再存储在 git 仓库中。**
 
-## Repository Structure
+Due to large file sizes, dump files are no longer stored in the repository. Please download from the **Releases** page.
 
-```text
-NarakaDump/
-├─ LICENSE
-├─ README.md
-└─ NarakaBladepoint/
-   ├─ dump(2025.04.17).cs
-   └─ dump(2026.03.01).cs
-```
+## 如何下载 / How To Download
 
-## Naming Convention
+1. 前往 [Releases](https://github.com/ZeroStarlet/NarakaDump/releases) 页面
+2. 下载对应版本的 dump 文件
+3. 文件以 `.tar.gz` 压缩包形式提供
 
-All dump files use this format:
+## 文件命名 / File Naming
 
-`dump(YYYY.MM.DD).cs`
+Dump 文件使用以下格式：
 
-Example:
+`GameAssembly_dump(YYYY.MM.DD).cs`
 
-`dump(2026.03.01).cs`
+### 文件类型 / File Types
 
-## Latest Update
+- **GameAssembly_dump.cs** - 标准 dump
+- **GameAssembly_Super_dump.cs** - 扩展 dump，包含更多信息
 
-- Latest file: `NarakaBladepoint/dump(2026.03.01).cs`
-- Previous file: `NarakaBladepoint/dump(2025.04.17).cs`
+## 请求更新 / Request Updates
 
-## How To Use
+如果需要更新的 dump，请提交 Issue 并注明：
+- 请求的游戏版本或更新日期
+- 任何特殊要求或备注
 
-1. Open the `NarakaBladepoint` folder.
-2. Download the target dump file by date.
-3. Compare versions to track class/field/method changes.
+## 免责声明 / Disclaimer
 
-## Request Updates
-
-If you need a newer dump, open an issue and include:
-
-- Requested game version or update date
-- Any special scope or notes
-
-## Contribution
-
-Pull requests are welcome for:
-
-- New dump updates
-- README/documentation improvements
-- File organization improvements
-
-Please keep naming and folder structure consistent.
-
-## Disclaimer
-
-This repository is for research and educational reference.  
-Users are responsible for complying with local laws and game terms.
+本仓库仅供研究和学习参考。
+用户需遵守当地法律和游戏服务条款。
 
 ## License
 
