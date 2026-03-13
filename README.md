@@ -1,6 +1,6 @@
-# NarakaDump
+# NarakaBladepoint Dump
 
-NarakaDump 用于归档和分享 **永劫无间** 的历史与最新 `dump.cs` 文件。
+NarakaBladepoint Dump 用于归档和分享 **永劫无间** 的历史与最新 `dump.cs` 文件。
 
 ## Important / 重要说明
 
