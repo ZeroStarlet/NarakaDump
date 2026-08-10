@@ -1,3 +1,5 @@
+
+
 # NarakaBladepoint Dump
 
 NarakaBladepoint Dump 用于归档和分享 **永劫无间** 的历史与最新 `dump.cs` 文件。
@@ -12,7 +14,7 @@ Due to large file sizes, dump files are no longer stored in the repository. Plea
 
 1. 前往 [Releases](https://github.com/ZeroStarlet/NarakaDump/releases) 页面
 2. 下载对应版本的 dump 文件
-3. 文件以 `.rar` 压缩包形式提供
+3. 文件以 `.rar` 压缩包形式提供，下载后请解压使用
 
 ## 文件命名 / File Naming
 
